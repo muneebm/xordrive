@@ -1,0 +1,12 @@
+{
+    "name": "xordrive",
+    "start_url": "https://xordrive.io",
+    "description": "Encrypted, decentralized file manager",
+    "icons": [
+      {
+        "src": "https://xordrive.io/statics/auth_logo.jpeg",
+        "sizes": "400x400",
+        "type": "image/jpeg"
+      }
+    ]
+  }
